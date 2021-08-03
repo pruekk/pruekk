@@ -1,8 +1,3 @@
-## WHO AM I
-
-My name is `Arniwatt Chonkiattipoom` or call me `Pruek`.<br> 
-I'm looking for ......
-
 ## EDUCATION
 
 - 2020 - 2016   
