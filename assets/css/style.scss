@@ -1,10 +1,8 @@
 ---
 ---
 
-{ 
-  @import "{{ site.theme }}";
+@import "{{ site.theme }}";
 
-  p.view {
-    display: none;
-  }
+p.view {
+  display: none;
 }
