@@ -1,12 +1,14 @@
 title: null
 logo: /assets/images/pruek-circle.png
 description: |
-    Hi everyone, I'm <i><b>Pruek</b></i>.<br>
-    Right now, I having fun with <b>DevOps</b> path to make the system or application more reliable and automatic however I'm looking for new <b>challenges</b> and <b>opputunities</b>.<br>
-    I'm kindly an introvert person but once you get to know me more, I would describe my personality as <b>friendly</b>, <b>funny</b> and <b>easy going</b>.<br>
+    Hi everyone, I'm <i><b>Pruek</b></i>.<br><br>
+    Right now, I having fun with <b>DevOps</b> path to make the system or application more reliable and automatic however I'm looking for new <b>challenges</b> and <b>opputunities</b>.<br><br>
+    I'm kindly an introvert person but once you get to know me more, I would describe my personality as <b>friendly</b>, <b>funny</b> and <b>easy going</b>.<br><br>
     <hr>
-    <a name="skills">SKILLS</a><br>
-    <a name="work-experience">WORK EXPERIENCE</a><br>
-    <a name="leadership-and-projects">LEADERSHIP AND PROJECTS</a><br>
-    <a name="education">EDUCATION</a><br>
+    - [SKILLS](https://pruekk.github.io/pruekk/#skills)<br>
+    - [WORK EXPERIENCE](https://pruekk.github.io/pruekk/#work-experience)<br>
+      - [ExxonMobil](https://pruekk.github.io/pruekk/#exxonmobil-bangkok-thailand)<br>
+      - [Refinitiv](https://pruekk.github.io/pruekk/#refinitiv-bangkok-thailand)<br>
+    - [LEADERSHIP AND PROJECTS](https://pruekk.github.io/pruekk/#leadership-and-projects)<br>
+    - [EDUCATION](https://pruekk.github.io/pruekk/#education)<br>
 theme: jekyll-theme-minimal
