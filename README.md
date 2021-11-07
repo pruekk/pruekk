@@ -1,5 +1,7 @@
 # Arniwatt Chonkiattipoom
 
+---
+
 ## SKILLS
 
 Python / Javascript / Java / Bash

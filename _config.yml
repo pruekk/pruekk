@@ -1,12 +1,12 @@
 title: null
 logo: /assets/images/pruek-circle.png
 description: |
-    Hi everyone, I'm _**Pruek**_.<br>
-    Right now, I having fun with **DevOps** path to make the system or application more reliable and automatic however I'm looking for new **challenges** and **opputunities**.<br>
-    I'm kindly an introvert person but once you get to know me more, I would describe my personality as **friendly**, **funny** and **easy going**.<br>
+    Hi everyone, I'm <i><b>Pruek</b></i>.<br>
+    Right now, I having fun with <b>DevOps</b> path to make the system or application more reliable and automatic however I'm looking for new <b>challenges<b/> and <b>opputunities<b/>.<br>
+    I'm kindly an introvert person but once you get to know me more, I would describe my personality as <b>friendly<b/>, <b>funny<b/> and <b>easy going<b/>.<br>
     <hr>
-    [SKILLS](#skills)
-    [WORK EXPERIENCE](#work-experience)
-    [LEADERSHIP AND PROJECTS](#leadership-and-projects)
-    [EDUCATION](#education)
+    <a name="skills">SKILLS</a>
+    <a name="work-experience">WORK EXPERIENCE</a>
+    <a name="leadership-and-projects">LEADERSHIP AND PROJECTS</a>
+    <a name="education">EDUCATION</a>
 theme: jekyll-theme-minimal
