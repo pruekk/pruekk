@@ -121,13 +121,13 @@ Git / Terraform / Docker / Kubernetes / Openshift / Datadog / Azure / Linux / Az
 
 <p style="text-align:left;padding-left:2%">
     Bachelor of Engineering in Computer Engineering
-    <span style="float:right">
-        August 2016 - April 2020
-    </span>
 </p>
 
 <p style="text-align:left;padding-left:2%">
     GPA: 3.29/4.00 (Second-class Honors)
+    <span style="float:right">
+        August 2016 - April 2020
+    </span>
 </p>
 
 <p style="text-align:left">
@@ -139,11 +139,11 @@ Git / Terraform / Docker / Kubernetes / Openshift / Datadog / Azure / Linux / Az
 
 <p style="text-align:left;padding-left:2%">
     Science and Mathematics
-    <span style="float:right">
-        March 2013 - March 2016
-    </span>
 </p>
 
 <p style="text-align:left;padding-left:2%">
     GPA: 3.83/4.00
+    <span style="float:right">
+        March 2013 - March 2016
+    </span>
 </p>
