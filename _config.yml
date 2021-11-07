@@ -1,15 +1,11 @@
-title: null
+title: <a href="https://github.com/pruekk">pruekk</a>
 logo: /assets/images/pruek-circle.png
 description: |
-    Hi everyone, I'm <i><b>Pruek</b></i>.<br><br>
-    Right now, I having fun with <b>DevOps</b> path to make the system or application more reliable and automatic however I'm looking for new <b>challenges</b> and <b>opputunities</b>.<br><br>
-    I'm kindly an introvert person but once you get to know me more, I would describe my personality as <b>friendly</b>, <b>funny</b> and <b>easy going</b>.<br>
-    <hr>
     <a href="https://pruekk.github.io/pruekk/#arniwatt-chonkiattipoom">/me</a><br>
     <a href="https://pruekk.github.io/pruekk/#skills">/skills</a><br>
     <a href="https://pruekk.github.io/pruekk/#work-experience">/work-experience</a><br>
-      - <a href="https://pruekk.github.io/pruekk/#exxonmobil-bangkok-thailand">/exxonmobil</a><br>
-      - <a href="https://pruekk.github.io/pruekk/#refinitiv-bangkok-thailand">/refinitiv</a><br>
+    &ensp;- <a href="https://pruekk.github.io/pruekk/#exxonmobil-bangkok-thailand">/exxonmobil</a><br>
+    &ensp;- <a href="https://pruekk.github.io/pruekk/#refinitiv-bangkok-thailand">/refinitiv</a><br>
     <a href="https://pruekk.github.io/pruekk/#leadership-and-projects">/leadership-and-projects</a><br>
     <a href="https://pruekk.github.io/pruekk/#education">/education</a><br>
 theme: jekyll-theme-minimal
