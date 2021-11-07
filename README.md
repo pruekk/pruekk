@@ -24,7 +24,7 @@ Git / Terraform / Docker / Kubernetes / Openshift / Datadog / Azure / Linux / Az
 - Developed and maintained terraform reusable modules for various Azure resources, including Kubernetes, PostgreSQL, CosmosDB, DNS zone, and Front Door in Azure DevOps pipelines.
 - Simplify security process by implementing reusable workflows, including Static Application Security Testing (SAST) and Dynamic Application Scanning Tool (DAST) using Github Action.
 - (SPIKE) Accelerated response from developers by studying ChatOps to connect between Zoom channel and Github Enterprise.
-- (SPIKE) Reduced images vulnerabilities by studying Harbor to store, sign, and scan content and deploy using helm charts. 
+- (SPIKE) Reduced images vulnerabilities by studying Harbor to store, sign, and scan content and deploy using helm charts.
 - Replace manual process of creation and modification for centralized Kafka components by developing an automated workflow in Github Action to prevent human error, and reduce the bottleneck in the waiting list.
 - Enhance Datadog monitoring templates for application’s SLO, logging agents, and application’s availability correlated with its deployments using terraform.
 - (SPIKE) Increased security by studying Hashicorp Vault, secrets management, to store and rotate credentials.
@@ -36,7 +36,7 @@ Git / Terraform / Docker / Kubernetes / Openshift / Datadog / Azure / Linux / Az
     </span>
 </p>
 
-- Designed and developed an internal email API to send emails through the SMTP server using Mulesoft and Anypoint MQ. 
+- Designed and developed an internal email API to send emails through the SMTP server using Mulesoft and Anypoint MQ.
 - Enhanced an internal active directory API and catalog API to support new business requirements using Mulesoft.
 
 ### Refinitiv Bangkok, Thailand
@@ -49,7 +49,7 @@ Git / Terraform / Docker / Kubernetes / Openshift / Datadog / Azure / Linux / Az
 </p>
 
 - Improve accuracy and usage by enhanced chatbot and logging dashboard using React and Typescript.
-- Increase response time by developing a testing module with a speed index to measure how fast the page content is visually displayed. 
+- Increase response time by developing a testing module with a speed index to measure how fast the page content is visually displayed.
 - Improve advertisement rate by implementing PageExpress, Content Management System(CMS) using Redux.
 
 ---
