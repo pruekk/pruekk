@@ -23,7 +23,7 @@ Git / Terraform / Docker / Kubernetes / Openshift / Datadog / Azure / Linux / Az
 
 <p style="text-align:left;padding-left:2%">
     DevOps Engineer
-    <span style="float:right">
+    <span style="float:right;font-style: italic;">
         December 2020 - Present
     </span>
 </p>
@@ -38,7 +38,7 @@ Git / Terraform / Docker / Kubernetes / Openshift / Datadog / Azure / Linux / Az
 
 <p style="text-align:left;padding-left:2%">
     Backend Developer
-    <span style="float:right">
+    <span style="float:right;font-style: italic;">
         June 2020 - November 2020
     </span>
 </p>
@@ -50,7 +50,7 @@ Git / Terraform / Docker / Kubernetes / Openshift / Datadog / Azure / Linux / Az
 
 <p style="text-align:left;padding-left:2%">
     Software Engineer Intern
-    <span style="float:right">
+    <span style="float:right;font-style: italic;">
         June 2019 - November 2019
     </span>
 </p>
@@ -67,7 +67,7 @@ Git / Terraform / Docker / Kubernetes / Openshift / Datadog / Azure / Linux / Az
 
 <p style="text-align:left;padding-left:2%">
     Team Leader
-    <span style="float:right">
+    <span style="float:right;font-style: italic;">
         November 2020 - Present
     </span>
 </p>
@@ -80,7 +80,7 @@ Git / Terraform / Docker / Kubernetes / Openshift / Datadog / Azure / Linux / Az
 
 <p style="text-align:left;padding-left:2%">
     Frontend Developer
-    <span style="float:right">
+    <span style="float:right;font-style: italic;">
         August 2020
     </span>
 </p>
@@ -91,7 +91,7 @@ Git / Terraform / Docker / Kubernetes / Openshift / Datadog / Azure / Linux / Az
 
 <p style="text-align:left;padding-left:2%">
     Full Stack Developer
-    <span style="float:right">
+    <span style="float:right;font-style: italic;">
         October 2019 - January 2020
     </span>
 </p>
@@ -102,7 +102,7 @@ Git / Terraform / Docker / Kubernetes / Openshift / Datadog / Azure / Linux / Az
 
 <p style="text-align:left;padding-left:2%">
     Full Stack Developer
-    <span style="float:right">
+    <span style="float:right;font-style: italic;">
         October 2018 - December 2018
     </span>
 </p>
@@ -126,7 +126,7 @@ Git / Terraform / Docker / Kubernetes / Openshift / Datadog / Azure / Linux / Az
 
 <p style="text-align:left;padding-left:2%">
     GPA: 3.29/4.00 (Second-class Honors)
-    <span style="float:right">
+    <span style="float:right;font-style: italic;">
         August 2016 - April 2020
     </span>
 </p>
@@ -144,7 +144,7 @@ Git / Terraform / Docker / Kubernetes / Openshift / Datadog / Azure / Linux / Az
 
 <p style="text-align:left;padding-left:2%">
     GPA: 3.83/4.00
-    <span style="float:right">
+    <span style="float:right;font-style: italic;">
         March 2013 - March 2016
     </span>
 </p>
