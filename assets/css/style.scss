@@ -10,9 +10,8 @@ p.view {
 footer {
   p {
     display: none;
-
-    small {
-      display: block !important;
-    }
+  }
+  p small {
+    display: block;
   }
 }
