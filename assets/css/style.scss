@@ -7,10 +7,10 @@ p.view {
   display: none;
 }
 
-footer {
+footer.p {
   visibility: hidden;
+}
 
-  .p.small {
-    visibility: visible;
-  }
+footer.p.small {
+  visibility: visible !important;
 }
