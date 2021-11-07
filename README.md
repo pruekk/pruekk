@@ -1,10 +1,11 @@
 # Arniwatt Chonkiattipoom
 
-Hi everyone, I'm _**Pruek**_.
+Hi everyone, My name is _**Pruek**_.
 
-Right now, I'm having fun with **DevOps** path to make the system or application more reliable and automatic however I'm looking for new **challenges** and **opportunities**.
+Recently, I had fun with the **DevOps** path to make the system or application more reliable, consistent, and automatic.<br>
+By the way, I am looking for new **challenges** and **opportunities** in other career paths.
 
-I'm kindly an introvert person but once you get to know me more, I would describe my personality as **friendly**, **funny** and **easy going**.
+I am kindly an introverted person, but once you get to know me more, I would describe my personality as **friendly**, **funny** and **easy-going**.
 
 ---
 
