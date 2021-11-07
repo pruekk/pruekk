@@ -1,13 +1,5 @@
 # Arniwatt Chonkiattipoom
 
-Hi everyone, I'm _**Pruek**_.
-
-Right now, I having fun with **DevOps** path to make the system or application more reliable and automatic however I'm looking for new **challenges** and **opputunities**.
-
-I'm kindly an introvert person but once you get to know me more, I would describe my personality as **friendly**, **funny** and **easy going**.
-
----
-
 ## SKILLS
 
 Python / Javascript / Java / Bash
