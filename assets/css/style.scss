@@ -9,10 +9,10 @@ p.view {
 
 footer {
   p {
-    visibility: hidden;
+    display: none;
 
     small {
-      visibility: visible;
+      display: block !important;
     }
   }
 }
