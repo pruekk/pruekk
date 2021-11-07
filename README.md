@@ -11,9 +11,9 @@ I am kindly an introverted person, but once you get to know me more, I would des
 
 ## SKILLS
 
-Python / Javascript / Java / Bash
+- Python, Javascript, Java, Bash
 
-Git / Terraform / Docker / Kubernetes / Openshift / Datadog / Azure / Linux / Azure DevOps / MuleSoft
+- Git, Terraform, Docker, Kubernetes, Openshift, Datadog, Azure, Linux, Azure DevOps, MuleSoft
 
 ---
 
