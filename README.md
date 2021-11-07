@@ -131,7 +131,7 @@ Git / Terraform / Docker / Kubernetes / Openshift / Datadog / Azure / Linux / Az
 </p>
 
 <p style="text-align:left">
-    <b>Piboonbumpen Demonstration School, Burapha University</b>
+    <b>Piboonbumpen Demonstration School, <br>Burapha University</b>
     <span style="float:right">
         Chonburi Thailand
     </span>
