@@ -1,7 +1,7 @@
 ---
 ---
 
-@import "style.scss";
+@import "{{ site.theme }}";
 
 p.view {
   display: none;
