@@ -46,6 +46,8 @@ I am kindly an introverted person, but once you get to know me more, I would des
 - Designed and developed an internal email API to send emails through the SMTP server using Mulesoft and Anypoint MQ.
 - Enhanced an internal active directory API and catalog API to support new business requirements using Mulesoft.
 
+![This is an image](./assets/images/pruek-circle.png)
+
 ### Refinitiv Bangkok, Thailand
 
 <p style="text-align:left;padding-left:2%">
