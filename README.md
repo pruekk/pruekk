@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <h3 align="center">The DevOps Engineer</h3>
 <br/>
 
-- ⚡ LinkedIn: [Arniwatt (Pruek) Chonkiattipoom]([https://www.linkedin.com/in/kanokpolkulsri](https://www.linkedin.com/in/arniwatt-chonkiattipoom/))
+- ⚡ LinkedIn: [Arniwatt (Pruek) Chonkiattipoom](https://www.linkedin.com/in/arniwattchonkiattipoom)
 <!-- - 😄 Tech Shabu: [techshabu.com](https://techshabu.com) -->
 <br/>
 
