@@ -1,12 +1,12 @@
 title: <a href="https://github.com/pruekk">pruekk</a>
-logo: /assets/images/pruek-circle.png
+logo: /assets/images/profile.jpg
 description: |
-    <br><hr><br>
+    <hr>
     <a href="https://pruekk.github.io/pruekk/#arniwatt-chonkiattipoom">/me</a><br>
-    <a href="https://pruekk.github.io/pruekk/#skills">/skills</a><br>
-    <a href="https://pruekk.github.io/pruekk/#work-experience">/work-experience</a><br>
-    &ensp;- <a href="https://pruekk.github.io/pruekk/#exxonmobil-bangkok-thailand">/exxonmobil</a><br>
-    &ensp;- <a href="https://pruekk.github.io/pruekk/#refinitiv-bangkok-thailand">/refinitiv</a><br>
+    <a href="https://pruekk.github.io/pruekk/#work-experience">/work-experiences</a><br>
     <a href="https://pruekk.github.io/pruekk/#leadership-and-projects">/leadership-and-projects</a><br>
-    <a href="https://pruekk.github.io/pruekk/#education">/education</a><br>
+    <a href="https://pruekk.github.io/pruekk/#skills-and-certificates">/skills</a><br>
+    <a href="https://pruekk.github.io/pruekk/#educations">/educations</a><br>
+    <a href="https://pruekk.github.io/pruekk/#contacts">/contacts</a><br>
+    <br><hr>
 theme: jekyll-theme-minimal
