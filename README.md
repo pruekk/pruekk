@@ -44,7 +44,7 @@ Currently, I'm seeking new challenges and opportunities to expand my career path
 </p>
 
 - Initiated an automated Kafka management workflows on GitHub Actions, eliminating human error and manual command-line processes by 95%.
-- Successfully migrated individual development teams to a shared Kubernetes environment using Terraform, resulting in a cost savings of $xxxx per month.
+- Successfully migrated individual development teams to a shared Kubernetes environment using Terraform, resulting in a cost savings of $60,000 per month.
 - Developed a reusable monitoring template in Terraform, enabling users to rapidly deploy data dashboards and potentially reducing mean time to recovery (MTTR) from 1 day to 30 minutes.
 - Performed an in-depth analysis of internal DevSecOps tools and services to bridge the gap between development and operations using Hashicorp Vault, Harbor, and ChatOps.
 
