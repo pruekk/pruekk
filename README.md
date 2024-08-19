@@ -26,6 +26,7 @@ Currently, I'm seeking new challenges and opportunities to expand my career path
 - Line Shopping platform allows all LINE users to buy online goods.
 - Central infrastructure team for Monitoring and Logging using Grafana, Prometheus, Fluent-bit, Terraform, and Vault.
 - Maintained 150+ services, and 1k pipelines to serve the platform.
+- Reduced 1M Yen annually by creating a Grafana dashboard with metrics to monitor node load, CPU, and memory usage.
 
 ---
 
