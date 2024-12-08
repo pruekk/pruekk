@@ -250,7 +250,7 @@ Currently, I'm seeking new challenges and opportunities to expand my career path
 - <b>Programming Languages:</b> Python, Bash, Java, Javascript, and Typescript.
 - <b>Tools:</b> Git, Terraform, Vault, Docker, Kubernetes, Prometheus, Linux, Fluentbit, Grafana.
 - <b>Web Technologies:</b> React, Redux, and ExpressJS.
-- <b>Certificates:</b> Certified Kubernetes Administrator.
+- <b>Certificates:</b> [Certified Kubernetes Administrator](https://www.credly.com/badges/bba09160-fd92-4a9f-b040-8238fded6351/public_url).
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=pruekk&title=MultiLanguage,Stars,Repositories,Commit&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
